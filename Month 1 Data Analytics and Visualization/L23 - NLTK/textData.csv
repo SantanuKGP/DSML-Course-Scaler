@@ -1,0 +1,145 @@
+Question Number,Answer,Marks,Correct Answer
+1.1,To simulate portions of the desired final product with a quick and easy program that does a small specific job. It is a way to help see what the problem is and how you may solve it in the final project.,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,A prototype program simulates the behaviors of portions of the desired software product to allow for error checking.,4.0,To simulate the behaviour of portions of the desired software product.
+1.1,"Defined in the Specification phase a prototype stimulates the behavior of portions of the desired software product.  Meaning, the role of a prototype is a temporary solution until the program itself is refined to be used extensively in problem solving.",5.0,To simulate the behaviour of portions of the desired software product.
+1.1,It is used to let the users have a first idea of the completed program and allow the clients to evaluate the program. This can generate much feedback including software specifications and project estimations of the total project.,3.0,To simulate the behaviour of portions of the desired software product.
+1.1,To find problem and errors in a program before it is finalized,2.0,To simulate the behaviour of portions of the desired software product.
+1.1,"To address major issues in the creation of the program. There is no way to account for all possible bugs in the program, but it is possible to prove the program is tangible. ",2.5,To simulate the behaviour of portions of the desired software product.
+1.1,you can break the whole program into prototype programs to simulate parts of the final program,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,To provide an example or model of how the finished program should perfom.Provides forsight of some of the challanges that would be encountered.Provides opportunity To introduce changes To the finished program.,3.5,To simulate the behaviour of portions of the desired software product.
+1.1,Simulating the behavior of only a portion of the desired software product.,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,A program that stimulates the behavior of portions of the desired software product.,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,A program that simulates the behavior of portions of the desired software product.,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,To lay out the basics and give you a starting point in the actual problem solving.,2.0,To simulate the behaviour of portions of the desired software product.
+1.1,To simulate problem solving for parts of the problem,4.5,To simulate the behaviour of portions of the desired software product.
+1.1,A prototype program provides a basic groundwork from which to further enhance and improve a solution to a problem.,2.0,To simulate the behaviour of portions of the desired software product.
+1.1,"A prototype program is a part of the Specification phase of Software Problem Solvin.  It's employed to illustrate how the key problem or problems will be solved in a program, and sometimes serves as a base program to expand upon.",4.5,To simulate the behaviour of portions of the desired software product.
+1.1,Program that simulates the behavior of portions of the desired software product,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,it provides a limited proof of concept to verify with the client before actually programming the whole application.,2.0,To simulate the behaviour of portions of the desired software product.
+1.1,It tests the main function of the program while leaving out the finer details.,2.0,To simulate the behaviour of portions of the desired software product.
+1.1,To get early feedback from users in early stages of development.  To show users a first idea of what the program will do/look like.  To make sure the program will meet requirements before intense programming begins.,2.5,To simulate the behaviour of portions of the desired software product.
+1.1,it simulates the behavior of portions of the desired software product,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,It simulates the behavior of portions of the desired software product.,5.0,To simulate the behaviour of portions of the desired software product.
+1.1,A prototype program is used in problem solving to collect data for the problem.,1.5,To simulate the behaviour of portions of the desired software product.
+1.2,"Refining and possibly the design if the testing phase reveals problems in the design.
+ Production can be affected if the program is unworkable in its current form which will lead to a later production time than originally estimated. Also affects coding because after testing you may need to rewrite the code for the program to remove errors.",3.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,The implementation phase and the maintenance phase are effected,4.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Verification, coding, refining the solution and maintenance are all influenced by the testing stage.",4.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"In RUP the stages in the software life cycle are influenced by the testing stage is:
+Elaboration phase- refined progject vision, iterative devilopment of core system, development of system requirements, more accurate time and cost estimates.Construction phase- iterative development of remaining system.Transition phase-testing and deployment of the system.",3.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Refining the solution, Production and Maintenance are all influenced by the Testing stage. ",3.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Elaboration, Construction, and Transition are all affected by testing",2.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Refining, Production, Maintenance",3.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,Refining the solution,4.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,Verification Debugging,2.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,Refining and Coding,5.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"The second half of the Elaboration phase, Construction phase, and the Transition phase.",2.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"The refining step, the production step, and the maintenance stage.",3.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Elaboration, Construction, Transition",2.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,Refining.,3.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"The testing stage has a direct influence on the final version of a program, being as it is the debugging and finalization of a software revision.",1.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Directly: Refining, coding.  Because Refining is right before the Testing Phase and Coding is right after the Testing Phase.Indirectly: Production, Maintenance.  Because Refining occurs before these last two stages in the Software Life Cycle.",5.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Testing, refining, production, and maintenance.",3.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Depending on how the work is done, Testing is spread throughout the process as to prevent errors from showing up later on due to lack of foresight.",1.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Elaboration, construction, and transition.",2.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"All stages are influenced except setting the program requirements.  If a test fails, it can change the whole design, implementation, etc of a program as well as the final outcome.",1.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"Refining, production, and maintenance",3.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,coding and refining,5.0,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.2,"refining, production, maintenance.",3.5,The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)
+1.3,"Modularability, the ability to reuse parts of the program later in another program sometimes with completely different goals for the program. 
+Also it makes it easier to debug code by dividing up the code into classes that each do a specific job and when the program fails at one job you only have one class to debug. Good for security purposes because it allows you to let someone use a program which sorts lists without having to give them access to the source code. ALso allows you to use inheritance and polymorphism.",4.5,Abstraction and reusability.
+1.3,"This type of programming is more flexible, making it easier to add and modify the program.  It is also a type of a fail safe program, you check each individual module. 
+This eliminates redundant code and makes the program easier to read for other programmers.  When debugging the program it is easier to track down the source of a problem within a module rather than a 2 million line program.",5.0,Abstraction and reusability.
+1.3,The main advantages to object-oriented programming are that existing classes can be reused and program maintenance and verification are easier.,3.5,Abstraction and reusability.
+1.3,"The advantages is that OOP allows us to build classes of objects.  Three principles that make up OOP are:
+Encapsulation- Objects combine data and operations.Inheritance- Classes can inherit properties from other classes.Polymorphism- Objects can determine appropriate operations at execution time.",2.5,Abstraction and reusability.
+1.3,Some advantages are existing classes can be reused and program maintenance and verification are easier to accomplish.,3.5,Abstraction and reusability.
+1.3,Object oriented programming allows programmers to use an object with classes that can be changed and manipulated while not affecting the entire object at once. The classes all hold attrubutes that affect the object.,1.0,Abstraction and reusability.
+1.3,"Reusable components, Extensibility, Maintainability, it reduces large problems into smaller more manageable problems.",4.0,Abstraction and reusability.
+1.3,Encapsulation-objects combine data and operations Inheritance- classes can inherit properties from other classes Polymorphism- Objects can determine appropriate operations at execution time,2.5,Abstraction and reusability.
+1.3,Easier to debugg Reusability,3.0,Abstraction and reusability.
+1.3,Re-usability  and ease of maintenance,4.0,Abstraction and reusability.
+1.3,"One of the main advantages is you can hide inner details a technique known by encapsulation. Objects combine the data and operations but you cannot see how it works.
+ Another advantage is you can reuse classes that have been defined earlier in the program, a method known as inheritance.<br>  Finally another advantage is objects can determine appropriate operations at execution time a technique known as polymorphism.",5.0,Abstraction and reusability.
+1.3,"Existing classes can be reused, and program maintenance and verification are easier.",3.5,Abstraction and reusability.
+1.3,Using different modules allows for easier debugging,2.0,Abstraction and reusability.
+1.3,"Data encapsulation concept,the use of functions or methods to manipulate data.",3.5,Abstraction and reusability.
+1.3,"Modular, reusable code, allowing faster deployment of solutions, and a more general view of a solution.",4.5,Abstraction and reusability.
+1.3,"Coding and Debugging programs are usually easier, as either the compiler will specify the object that is working incorrectly, or the function an object was assigned to will be easier to identify.
+The code itself also looks more organized and is easier to read and will help to avoid redundant coding.  Post-programming maintenance is also easier.Also, modules can be reused several times in other programs without too much hassle.   Abstraction is the art of breaking down one big problem into smaller, simpler problems and solving them.  Many of the smaller problems are shared between unique complex problems, and creating modules to these solve these smaller repeated problems can save time when you encounter them again.",5.0,Abstraction and reusability.
+1.3,"Variables can remain private. The code is easily modified and reusable, as well as easily implemented. Not to mention easier to read and follow along as an observer.",4.5,Abstraction and reusability.
+1.3,Data Abstraction and control... it is possible to isolate elements from other elements a lot easier and prevent tampering of data.,3.5,Abstraction and reusability.
+1.3,Encapsulation - Objects use operations without knowing how the operation works.Inheritance - cuts redundancy by reusing earlier classes.Polymorphism - objects select the correct operation to use in the situation.,4.0,Abstraction and reusability.
+1.3,"They make it easier to reuse and adapt previously written code and they separate complex programs into smaller, easier to understand classes.",4.5,Abstraction and reusability.
+1.3,"Existing classes can be reused, Program maintenance and verification are easier",3.5,Abstraction and reusability.
+1.3,"Existing classes can be feused, Program maintenance and verification are easier",3.5,Abstraction and reusability.
+1.3,"the main advantages to object-oriented programming  is data abstraction, easier maintenance, and re-usability.",5.0,Abstraction and reusability.
+1.4,At function int main,5.0,At the main function.
+1.4,the Function main.,5.0,At the main function.
+1.4,c++ programs begin to execute in the main method.,5.0,At the main function.
+1.4,A C++ program will begin to execute at the main function.,5.0,At the main function.
+1.4,They begin in the main function.,5.0,At the main function.
+1.4,Int main,5.0,At the main function.
+1.4,main method,5.0,At the main function.
+1.4,in the testing phase,0.0,At the main function.
+1.4,At the MAIN function,5.0,At the main function.
+1.4,main,5.0,At the main function.
+1.4,They begin to execute at the funcion main().,5.0,At the main function.
+1.4,The main method.,5.0,At the main function.
+1.4,At the root,2.5,At the main function.
+1.4,In the main() function.,5.0,At the main function.
+1.4,C++ programs begin execution at main.,5.0,At the main function.
+1.4,In the Main function..?,5.0,At the main function.
+1.4,"At the ""main()"" function",5.0,At the main function.
+1.4,The main function.,5.0,At the main function.
+1.4,The function main,5.0,At the main function.
+1.4,"After loading the required include statements and libraries, the main method begins the execution.",5.0,At the main function.
+1.4,main function,5.0,At the main function.
+1.4,main,5.0,At the main function.
+1.4,C++ programs begin execution at the main function.,5.0,At the main function.
+1.5,Variable can be a integer or a string in a program.,2.0,A location in memory that can store a value.
+1.5,"In programming, a structure that holds data and is uniquely named by the programmer. It holds the data assigned to it until a new value is assigned or the program is finished.",4.5,A location in memory that can store a value.
+1.5,A variable is a location in memory where a value can be stored.,5.0,A location in memory that can store a value.
+1.5,"Variable is a location in the computer's memory, in which a value can be stored and later can retrieve that value.",5.0,A location in memory that can store a value.
+1.5,"A variable is a location in the computer's memory where a value can be stored for use by a program. Each variable has a name, a value, a type and a size.",5.0,A location in memory that can store a value.
+1.5,A named object that can hold a numerical or letter value,3.5,A location in memory that can store a value.
+1.5,"It's a sybol or name for a value/number. Example: 'a_used_number' can stand for any given number, and the programmer can refer to that number by using the variable name.",4.0,A location in memory that can store a value.
+1.5,A variable is a location in the computers memory where a value can be stored for use by a program,5.0,A location in memory that can store a value.
+1.5,An identifier that holds a location in memory.,4.0,A location in memory that can store a value.
+1.5,a block of memory that holds a specific type of data,5.0,A location in memory that can store a value.
+1.5,It is a location in the computer's memory where it can be stored for use by a program.,5.0,A location in memory that can store a value.
+1.5,A location in memory where value can be stored.,5.0,A location in memory that can store a value.
+1.5,a value/word that can assume any of a set of values,3.0,A location in memory that can store a value.
+1.5,A pointer to a location in memory.,4.0,A location in memory that can store a value.
+1.5,"A variable is the memory address for a specific type of stored data, or from a mathematical perspective, a symbol representing a fixed definition with changing values.",5.0,A location in memory that can store a value.
+1.5,A variable is a value that is subject to change in a computer's memory that can be used by programs.  Programs can change the value of the variable and recall it later or act on it directly.,5.0,A location in memory that can store a value.
+1.5,a symbol that stands in for a value that may or may not change depending on the program.,4.0,A location in memory that can store a value.
+1.5,"a placeholder to hold information used in the program for example:int can hold: 1, 2, 3, 4, 68, 72, 256, etc. float can hold: 1.54, 55.55, 1.24, 5.657, 8.8123, et. char can hold: A, B, C, D, E, F, !, 4, 5, 6, P, etc.",4.5,A location in memory that can store a value.
+1.5,a stored value used by the program,4.5,A location in memory that can store a value.
+1.5,"A way to store different values into the program, such as numbers, words, letters, etc.",4.5,A location in memory that can store a value.
+1.5,An object with a location in memory where value can be stored,3.5,A location in memory that can store a value.
+1.5,location in memory where a value can be stored,5.0,A location in memory that can store a value.
+1.5,a variable is an object where data is stored.,3.5,A location in memory that can store a value.
+1.6,"They can be declared right before they are used, but it is a good practice to declare them at the beginning of the program and label what they are food.",2.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,In the Function main() before using the variable.,3.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,"Local variables are declared inside the method or function they will be used in at the beginning of the method. Global variables are declared outside of any function or method, generally before functions are defined.",5.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Variables are declared where ever it is defined either inside a block locally or outside a block globally.,4.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Variables are declared before they are actually used. They can be declared before main() to use globally,4.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,"For good programing practice they should be declared before main(), but should at least be declared before they are used.",2.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,"They can be declared globally just before the main method (but also outside of it)... or variables can be subject to only the method they're scoped within, but would still be declared at the beginning of that method (but inside of it).",5.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,local variables are declared inside the method while global variables are declared in the body.,5.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Any where in the main function.,2.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,"Globally for an entire program, and locally for individual functions (including FOR statements)",4.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,They are usually declared at the beginning before they can be used in the program. They always contain a name and a data type.,3.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Inside the method.,2.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,at the top,1.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Global variables are declared in the body of the code. Local variables are declared in the function they are to be used (unless the function is being passed a variable). Variables should always be declared before use.,5.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Variables are usually declared at the beginning of a module of C++ code.,2.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,"In the main function, usually at the top of code.They can be declared almost anywhere, but must be declared before the code can use or act upon them.",3.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,in the very beginning of the program. Before the main() starts.,2.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,"In the declaration of Functions, for statements, and while statements. In the body of If, For, while, do while, statements, in namespaces, headers, etc  ( almost anywhere. ) anywhere in the program, as long as it is on it's own line.",2.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,After declaration of the variable's data type.,1.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,"anywhere in the code, can be at the top, or in the middle of the code, or anywhere.",3.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Before they are used.,2.0,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,Anywhere in the same scope before they are used,3.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+1.6,variables can be declared in classes and methods.,2.5,Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
